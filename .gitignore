@@ -1,0 +1,21 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE-specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.so
