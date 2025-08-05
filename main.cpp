@@ -7,7 +7,7 @@ int main(){
     cout << "Meher" << endl;
     cout << "We have succesfully enetered inside the feature branch" << endl;
 
-    cout << "now we will learn about the merge commands";
+    cout << "now we will learn about the merge commands and how we treat them";
 
     return 0;
 }
