@@ -4,6 +4,10 @@
 using namespace std;
 
 int main(){
-    cout << "Meher";
+    cout << "Meher" << endl;
+    cout << "We have succesfully enetered inside the feature branch" << endl;
+
+    cout << "now we will learn about the merge commands";
+
     return 0;
 }
